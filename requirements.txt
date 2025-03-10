@@ -1,0 +1,6 @@
+streamlit
+langchain-groq
+docling
+langgraph
+PyMuPDF
+web-browser      
